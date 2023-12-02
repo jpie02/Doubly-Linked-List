@@ -1,5 +1,5 @@
 # Doubly-Linked_List
-A school project featuring a DDL of people and their personal data.
+A project featuring a DDL of people and their personal data.
 Functionalities include: adding a person, deleting a person, print forwards, print backwards, name and last name search and save to file (.txt).
 
 
